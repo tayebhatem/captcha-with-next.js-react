@@ -1,4 +1,4 @@
-# Dog Images Captcha with Next.js, React, and Tailwind CSS
+#Captcha with Next.js, React, and Tailwind CSS
 
 ## Overview
 
